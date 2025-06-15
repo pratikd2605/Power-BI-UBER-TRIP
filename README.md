@@ -38,7 +38,7 @@ A **three-tier dashboard system** was developed using a structured data model co
   - Conditional formatting and custom sorting for readability  
 
 ---
-![image alt](https://github.com/pratikd2605/Power-BI-UBER-TRIP/blob/61d51c193a0399fc39c9ea14f6862d199df59ba0/OverviewAnalysis.png)
+![image alt]([https://github.com/pratikd2605/Power-BI-UBER-TRIP/blob/61d51c193a0399fc39c9ea14f6862d199df59ba0/OverviewAnalysis.png](https://github.com/pratikd2605/Power-BI-UBER-TRIP/blob/bfa9f42199af5a52d831bfd79267d91152ac1b78/TimeAnalysis.png))
 ### 🕒 Dashboard 2: Time-Based Analysis  
 - Global dynamic measure filter across all visuals  
 - Visuals:
