@@ -68,7 +68,7 @@ All visuals update based on selected metric:
 - Total Trip Distance
 
 ---
-![image alt](https://github.com/pratikd2605/Power-BI-UBER-TRIP/blob/61d51c193a0399fc39c9ea14f6862d199df59ba0/OverviewAnalysis.png)
+![image alt](https://github.com/pratikd2605/Power-BI-UBER-TRIP/blob/12ef798c5e534b902fd624b13b45547cb5ca7432/Details.png)
 ### 🔍 Dashboard 3: Drill-Through Details Tab  
 
 **Purpose:**  
