@@ -27,15 +27,27 @@ A **three-tier dashboard system** was developed using a structured data model co
 
 ---
 ![image alt](https://github.com/pratikd2605/Power-BI-UBER-TRIP/blob/61d51c193a0399fc39c9ea14f6862d199df59ba0/OverviewAnalysis.png)
-### 📈 Dashboard 1: Overview Analysis  
-- KPIs: Total Bookings, Total Booking Value, Avg. Trip Distance, Avg. Trip Time  
-- Filters: Payment Type, Day vs. Night Trips, Vehicle Category  
-- Visual Selector: Disconnected table to toggle dynamic metrics  
-- Highlights:
-  - Top Pickup/Drop-off Locations  
-  - Longest Trips  
-  - High-Performing Areas  
-  - Conditional formatting and custom sorting for readability  
+### 📈 Dashboard 1: Overview Analysis
+
+**Purpose:**  
+Provides a summary view of overall trip performance, customer usage patterns, and comparative metrics by vehicle and payment types.
+
+**Key Features:**  
+⭐ Core KPIs: Total Bookings, Total Booking Value, Avg Trip Distance, Avg Trip Time  
+⭐ Dynamic Measure Toggle: Switch between KPIs without changing visuals  
+⭐ Breakdown filters for: Payment Type, Day vs. Night, Vehicle Category  
+⭐ Location Insights:
+- Most common pickup/drop-off zones  
+- Longest trips by distance  
+- Top booking locations by volume  
+- Preferred vehicles by area  
+
+**User Experience Enhancements:**  
+- Tooltips with contextual metrics (e.g., average value per trip)  
+- Bookmark for data dictionary and model details  
+- Reset filters button  
+- CSV/Excel export functionality
+ 
 
 ---
 ![image alt](https://github.com/pratikd2605/Power-BI-UBER-TRIP/blob/182349c4f56b58d68a463692f330d35193355332/TimeAnalysis.png)
