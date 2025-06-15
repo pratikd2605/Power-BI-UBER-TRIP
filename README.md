@@ -26,7 +26,7 @@ A **three-tier dashboard system** was developed using a structured data model co
 - **Location Table**: Maps LocationID values to area names and cities for spatial analysis.
 
 ---
-
+![image alt](https://github.com/pratikd2605/Power-BI-UBER-TRIP/blob/61d51c193a0399fc39c9ea14f6862d199df59ba0/OverviewAnalysis.png)
 ### 📈 Dashboard 1: Overview Analysis  
 - KPIs: Total Bookings, Total Booking Value, Avg. Trip Distance, Avg. Trip Time  
 - Filters: Payment Type, Day vs. Night Trips, Vehicle Category  
@@ -38,7 +38,7 @@ A **three-tier dashboard system** was developed using a structured data model co
   - Conditional formatting and custom sorting for readability  
 
 ---
-
+![image alt](https://github.com/pratikd2605/Power-BI-UBER-TRIP/blob/61d51c193a0399fc39c9ea14f6862d199df59ba0/OverviewAnalysis.png)
 ### 🕒 Dashboard 2: Time-Based Analysis  
 - Global dynamic measure filter across all visuals  
 - Visuals:
@@ -47,7 +47,7 @@ A **three-tier dashboard system** was developed using a structured data model co
   - Heatmap: Hour × Day grid to identify peak/off-peak windows  
 
 ---
-
+![image alt](https://github.com/pratikd2605/Power-BI-UBER-TRIP/blob/61d51c193a0399fc39c9ea14f6862d199df59ba0/OverviewAnalysis.png)
 ### 🔍 Dashboard 3: Drill-Through Details Tab  
 - Tabular view with fields: Trip ID, Distance, Fare, Pickup/Drop-off Time  
 - Drill-through enabled from summary visuals to detailed trip records  
