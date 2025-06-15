@@ -81,12 +81,11 @@ Supports granular analysis by allowing users to explore individual trip records.
 ⭐ Slicer reset options and export to CSV/Excel for deeper offline analysis
 
 ---
-## ✅ Result  
+## ✅ Conclusion  
 - Identified peak demand hours, preferred routes, top vehicle categories  
 - Gained visibility into surge pricing and high-demand zones  
 - Delivered an intuitive, clean, and business-ready dashboard  
 - Empowered users with self-service analytics tools for improved decision-making 
-## ✅ Conclusion
 
 This Power BI dashboard solution offers a scalable and interactive way to analyze Uber trip data from multiple perspectives. Its modular structure supports both quick overviews and in-depth exploration, making it a practical tool for operations, planning, and executive decision-making.
 
